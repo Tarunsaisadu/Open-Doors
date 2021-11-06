@@ -1,0 +1,29 @@
+.searchcol {
+  margin-top: 2px;
+  padding: 5px 5px;
+  background-color: rgb(212, 208, 207);
+  border: 2px solid orangered;
+  border-radius: 10px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+.searchbarcol {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.favbutton {
+  width: fit-content;
+  margin: 3px 3px;
+
+  background-color: rgb(230, 224, 224);
+  border: none;
+  border-radius: 10px;
+}
+.searchbar {
+  width: 600px;
+  border: solid orangered 3px;
+  border-radius: 20px;
+  margin-left: 150px;
+}
